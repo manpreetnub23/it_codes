@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Fluffy",
+        "age": 3,
+        "weight": 2,
+        "likes": "toys",
+        "image": "https://as2.ftcdn.net/v2/jpg/00/97/58/97/1000_F_97589769_t45CqXyzjz0KXwoBZT9PRaWGHRk5hQqQ.jpg"
+    },
+    {
+        "name": "Buddy",
+        "age": 5,
+        "weight": 3,
+        "likes": "chasing balls",
+        "image": "https://img.freepik.com/free-photo/isolated-happy-smiling-dog-white-background-portrait-4_1562-693.jpg?size=626&ext=jpg&ga=GA1.1.386372595.1698537600&semt=ais"
+    },
+    {
+        "name": "Whiskers",
+        "age": 2,
+        "weight": 4,
+        "likes": "napping",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQibOkopIiMbNBLtxOFiB1qA6DbSg8SVa-oSg&usqp=CAU"
+    }
+]
