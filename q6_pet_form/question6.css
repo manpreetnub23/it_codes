@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+
+}
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(80, 123, 102);
+
+}
+.card{
+    /* display: grid; */
+    /* grid-template-columns: 1fr 1fr; */
+    height: 80vh;
+    width: 80vh;
+    background-color: rgb(232, 229, 229);
+    border-radius: 3vh;
+    padding: 5vh;
+}
+.card h2{
+    text-align: center;
+    color: rgb(80, 123, 102);
+    font-size: xx-large;
+    margin-bottom: 4vh;
+}
+.form-label{
+    font-size: 4vh;
+    margin-bottom: 7vh;
+    color: rgb(83, 108, 96);;
+    padding-right: 6vh;
+}
+.textarea{
+    border-radius: 50vh;
+    border: 1px solid green;
+    padding: 0.9vh;
+    font-size: 2vh;
+}
+
+input {
+    margin-bottom: 5.5vh;
+}
+#submit{
+    background-color: green;
+    padding: 1.4vh;
+    width: 30vh;
+    color: white;
+    margin-left: 19vh;
+    border-radius: 50vh;
+    border: 1px solid green;
+}
+#submit:hover{
+    background-color: rgb(3, 98, 3);
+    cursor: pointer;
+}
