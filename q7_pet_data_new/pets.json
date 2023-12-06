@@ -1,0 +1,23 @@
+[
+  {
+    "age": "2",
+    "likes": "catnip",
+    "name": "momo",
+    "type": "cat",
+    "weight": "12"
+  },
+  {
+    "age": "3",
+    "likes": "bone",
+    "name": "bosco",
+    "type": "dog",
+    "weight": "20"
+  },
+  {
+    "age": "4",
+    "likes": "peanuts",
+    "name": "gillu",
+    "type": "squirrel",
+    "weight": "0.6"
+  }
+]
